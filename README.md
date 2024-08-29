@@ -1,2 +1,2 @@
 # 100-Days-of-python-coding
-This is repository for 100 days of python coding by Angela Lu
+This is a repository for 100 days of Python coding by Divyansh Raj taught by Angela Lu
